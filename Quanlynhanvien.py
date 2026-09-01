@@ -249,6 +249,3 @@ def main():
             print("Lua chon khong hop le!")
 
 
-# Chay chuong trinh
-if __name__ == "__main__":
-    main()
