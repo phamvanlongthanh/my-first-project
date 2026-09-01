@@ -10,7 +10,7 @@
 - 4. Sửa nhân viên
 - 5. Xóa nhân viên
 - 6. Xếp loại nhân viên
-- 0. Thoát chương trình
+- 7. Thoát chương trình
 
 ## 3. Thông tin hiển thị
 Ứng dụng quản lý và hiển thị các thông tin chi tiết:
